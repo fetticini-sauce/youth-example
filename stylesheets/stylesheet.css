@@ -69,6 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 36px;
   font-weight: 700;
+  color:#f00;
 }
 
 h2 {
@@ -288,11 +289,8 @@ Full-Width Styles
 
 #header_wrap {
   background: url(../images/blue-header.jpg);
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
+ background-position:center;
+ background-repeat:no-repeat;
 }
 
 #header_wrap .inner {
