@@ -288,9 +288,10 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: url(../images/blue-header.jpg);
+ background: url(../images/blue-header.jpg);
  background-position:center;
  background-repeat:no-repeat;
+ background-color:#f00;
 }
 
 #header_wrap .inner {
