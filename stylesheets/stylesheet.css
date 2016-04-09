@@ -312,7 +312,23 @@ Full-Width Styles
   background: none;
   text-shadow: #111 0px 0px 10px;
 }
-
+.row {
+  width:100%;
+  float:left;
+}
+.section {
+  margin:10px;
+  padding:5px;
+  width:325px;
+  border: 2px solid #f00;
+}
+.info {
+  margin:3px;
+  padding:3px;
+  font-family:arial;
+  font-height:20px;
+  font-size:1.3em;
+}
 #downloads {
   position: absolute;
   width: 210px;
