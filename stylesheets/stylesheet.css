@@ -316,7 +316,7 @@ Full-Width Styles
 .row {
   margin:0px;
   padding:0px;
-  width:100%;
+  max-width:739px;
   float:left;
 }
 .section {
