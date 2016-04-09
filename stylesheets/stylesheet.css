@@ -286,7 +286,7 @@ Full-Width Styles
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 }
-
+/*header image and backgroundcolor*/
 #header_wrap {
  background: url(../images/blue-header.jpg);
  background-position:center;
@@ -297,7 +297,7 @@ Full-Width Styles
 #header_wrap .inner {
   padding: 50px 10px 30px 10px;
 }
-
+/*this affects the taglines in the header*/
 #project_title {
   margin: 0;
   color: #f00;
@@ -382,9 +382,9 @@ Full-Width Styles
 #main_content {
   padding-top: 40px;
 }
-
+/*changed color*/
 #footer_wrap {
-  background: #212121;
+  background: #f00;
 }
 
 
